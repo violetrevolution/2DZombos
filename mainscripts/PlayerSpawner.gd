@@ -26,4 +26,4 @@ func spawn_player(id: int):
 	spawn(id)
 
 func kill_player(id: int):
-	
+	pass
